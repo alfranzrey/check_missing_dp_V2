@@ -15,7 +15,7 @@ fs.createReadStream('asins.csv')
     });
 //-----------------------
 //-export file result
-var exportToCSV = fs.createWriteStream('result2.txt');
+var exportToCSV = fs.createWriteStream('result.txt');
 var header ='ASIN'  + '\t' +
             'Title'    + '\n';
 console.log(header);
@@ -53,25 +53,33 @@ function objToString (obj) {
 
         //code starts here
         var paraCount = 2;
-        var page = new Array();
+        const page = new Array();
         for(var x = 0; x < paraCount;x++){
             page[x] = await browser.newPage();
             page[x].setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36');
+            gather(x, 0, csvData.length);
         }
 
-        for(var x = 0; x < paraCount; x++){
-            await page[x].goto("https://www.google.com", {waitUntil: 'load', timeout: 0}); //bypass timeout  
-        }
+        //loop gather()
 
-        /*
-        for(var i = 0; i < csvData.length; i++){
+        //end
+        console.log("All done!");
+        //browser.close();
+    }
+    catch(err){
+        console.log("!!!! >>>>>  my error",err);
+    }
+
+    async function gather(paraNo, paraStart, lenght){
+        //console.log("inside gather: " + paraNo +" : "+paraStart+" : "+lenght);
+        for(var i = paraStart; i < lenght; i++){
             var startT = new Date();
-            await page.goto("https://www.amazon.com/gp/offer-listing/"+csvData[i], {waitUntil: 'load', timeout: 0}); //bypass timeout
-            await page.waitForSelector('body');
+            await page[paraNo].goto("https://www.amazon.com/gp/offer-listing/"+csvData[i], {waitUntil: 'load', timeout: 0}); //bypass timeout
+            await page[paraNo].waitForSelector('body');
             var title = "";
 
-            if (await page.$('#olpProductDetails > h1') !== null){
-                title = await page.evaluate(() => document.querySelector('#olpProductDetails > h1').innerText); 
+            if (await page[paraNo].$('#olpProductDetails > h1') !== null){
+                title = await page[paraNo].evaluate(() => document.querySelector('#olpProductDetails > h1').innerText); 
             }
             else{
                 title = "Missing Detail page";
@@ -85,15 +93,8 @@ function objToString (obj) {
             var endT = new Date() - startT;
             //console.log("Execution time: "+endT + "ms" + '\n');
             ETC(endT, csvData.length-i-1);
-        }*/
-
-        //end
-        console.log("All done!");
-        //browser.close();
-    }
-    catch(err){
-        console.log("!!!! >>>>>  my error",err);
-    }
+            }
+        }
 
     function ETC(durationPerLoop, loopsRemaining){
         var etc = durationPerLoop * loopsRemaining;
