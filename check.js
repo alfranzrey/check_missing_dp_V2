@@ -32,6 +32,9 @@ function objToString (obj) {
 //-------------------------
 const page = new Array();
 var browser;
+var curr = 0;
+var paraCount = 5;
+var dataCount = 0;
 
 //Main async function
 (async function main() {
@@ -53,17 +56,13 @@ var browser;
         //-----------------
 
         //code starts here
-        var paraCount = 5;
-        var curr = 0;
-        for(var x = 0; x < 5;x++){
+        while (dataCount != csvData.length){
+            console.log("Processed: "+csvData[dataCount]); 
+            console.log("Curr: "+curr); 
             if (curr < paraCount) {
-                gather(x, csvData[x]);   
+                gather(dataCount, csvData[dataCount]); 
+                dataCount++;  
             }
-            else{
-                x--;
-                continue;
-            }
-            
         }
 
         //loop gather()
@@ -80,6 +79,7 @@ var browser;
         //console.log("inside gather: " + paraNo +" : "+paraStart+" : "+length);
         page[index] = await browser.newPage();
         curr++;
+        console.log("Page count: "+curr);
         page[index].setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36');
      
             //var startT = new Date();
@@ -101,6 +101,8 @@ var browser;
             console.log(objToString(row)); 
             page[index].close();
             curr--;
+            console.log("Page count: "+curr);
+            //
             //var endT = new Date() - startT;
             //console.log("Execution time: "+endT + "ms" + '\n');
             //ETC(endT, csvData.length-i-1);
