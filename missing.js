@@ -59,7 +59,7 @@ function objToString (obj) {
         var curPageCount = 0;
         var iteration = -1;
         var subLinkCount = 0;
-        const subLinks = [[]]; //all links
+        const subLinks = [[],[]]; //all links
         //populate all sublinks
         for(var i = 0; i < csvData.length; i++){
             iteration++;
