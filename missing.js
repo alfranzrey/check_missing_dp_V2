@@ -54,25 +54,45 @@ function objToString (obj) {
             */
         //-----------------
 
+        //-testing
+        /*
+        var subLinks = [[]];
+        var tempLinks = ["0","0"];
+        subLinks[0][0]="a";
+        subLinks[0][1]="b";
+        tempLinks[0]="c";
+        tempLinks[1]="d";
+        subLinks.push(tempLinks);
+        console.log(subLinks);
+        console.log(subLinks[1][0]);
+        */
+
+        //
         //-------------gather all the links
         var maxTabCount = 9;
         var curPageCount = 0;
         var iteration = -1;
         var subLinkCount = 0;
-        const subLinks = [[],[]]; //all links
+        var subLinks = []; //all links
+        var tempLinks = [];
         //populate all sublinks
         for(var i = 0; i < csvData.length; i++){
             iteration++;
             if(iteration == maxTabCount){
+                subLinks.push(tempLinks);
                 subLinkCount++;
                 iteration = 0; 
-                console.log("Sublink count: "+subLinkCount+" Iteration: "+iteration+" > "+csvData[i]);
-                 
+                tempLinks = [];                  
             }
-            subLinks[subLinkCount][iteration]= "https://www.amazon.com/gp/offer-listing/"+csvData[i];
-            console.log(subLinkCount+"-"+iteration+">"+csvData[i]+ " == "+subLinks[subLinkCount][iteration]);
-        }//--------------------
-
+            tempLinks[iteration]="https://www.amazon.com/gp/offer-listing/"+csvData[i]; //display what is added
+            if(i+1 == csvData.length){
+                subLinks.push(tempLinks);   
+            }
+        }
+        console.log(subLinks);
+        console.log(subLinks[2][0]);
+        //--------------------
+  
         //--------display in mutiple tabs by batch
         /*
         for(var x = 0; x <= subLinkCount; x++){
