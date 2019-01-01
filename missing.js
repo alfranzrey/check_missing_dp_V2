@@ -41,7 +41,7 @@ function objToString (obj) {
             headless: false});
         const page = await browser.newPage();
         page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36');    
-        /*block images and css
+        //block images and css
             await page.setRequestInterception(true);
             page.on('request', (req) => {
                 if(req.resourceType() == 'stylesheet' || req.resourceType() == 'font' || req.resourceType() == 'image'){
@@ -51,21 +51,8 @@ function objToString (obj) {
                     req.continue();
                 }
             });
-            */
+            //
         //-----------------
-
-        //-testing
-        /*
-        var subLinks = [[]];
-        var tempLinks = ["0","0"];
-        subLinks[0][0]="a";
-        subLinks[0][1]="b";
-        tempLinks[0]="c";
-        tempLinks[1]="d";
-        subLinks.push(tempLinks);
-        console.log(subLinks);
-        console.log(subLinks[1][0]);
-        */
 
         //
         //-------------gather all the links
@@ -127,13 +114,11 @@ function objToString (obj) {
                 //end write
             }));//end promise  
             var endT = new Date() - startT; //for ETC
-            ETC(endT, csvData.length-x-1);   
+            ETC(endT, subLinkCount-x-1);   
         }//end for
         //--------------------------
-
- 
         console.log("All done!");
-        //browser.close();
+        browser.close();
     }
     catch(err){
         console.log("!!!! >>>>>  my error",err);
