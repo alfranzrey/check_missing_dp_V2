@@ -89,12 +89,9 @@ function objToString (obj) {
                 subLinks.push(tempLinks);   
             }
         }
-        console.log(subLinks);
-        console.log(subLinks[2][0]);
         //--------------------
   
         //--------display in mutiple tabs by batch
-        /*
         for(var x = 0; x <= subLinkCount; x++){
             await Promise.all(subLinks[x].map(async(link) =>{
                 var title = "Missing Detail Page";
@@ -103,7 +100,6 @@ function objToString (obj) {
                     const curPage = await browser.newPage();
                     await curPage.goto(link);
                     curPageCount++;
-                    //console.log("opening tab.. "+curPageCount); 
                     //-code starts here
                     await curPage.waitForSelector('body');
                     if (await curPage.$('#olpProductDetails > h1') !== null){
@@ -112,11 +108,8 @@ function objToString (obj) {
                     console.log(currentASIN+": "+title);
                     curPage.close();
                     curPageCount--;
-                    //console.log(curPageCount); 
                 }
                 catch(err){
-                    //console.log(link + "> Promise ER: "+err);
-                    //title = "Missing Detail Page!";
                     console.log(currentASIN+": "+title);
                     curPage.close();
                     curPageCount--;
@@ -125,7 +118,6 @@ function objToString (obj) {
             
             }));//end promise      
         }//end for
-        */
         //--------------------------
 
  
