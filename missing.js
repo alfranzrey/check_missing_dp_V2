@@ -93,6 +93,7 @@ function objToString (obj) {
   
         //--------display in mutiple tabs by batch
         for(var x = 0; x <= subLinkCount; x++){
+            var startT = new Date();//for ETC
             await Promise.all(subLinks[x].map(async(link) =>{
                 var title = "Missing Detail Page";
                 var currentASIN = link.slice(40,50);
@@ -122,8 +123,11 @@ function objToString (obj) {
                     }
                 exportToCSV.write(objToString(row) + '\n','utf-8');
                 console.log(objToString(row)); 
+
                 //end write
-            }));//end promise      
+            }));//end promise  
+            var endT = new Date() - startT; //for ETC
+            ETC(endT, csvData.length-x-1);   
         }//end for
         //--------------------------
 
@@ -150,7 +154,7 @@ function objToString (obj) {
         if (mins < 1) {
             final_etc = secs + " sec(s)";
         }
-        return console.log("ETC: "+final_etc+'\n');
+        return console.log("ETC: "+final_etc);
     }
 
     function delay(time) {
