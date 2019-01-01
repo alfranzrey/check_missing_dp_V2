@@ -105,17 +105,24 @@ function objToString (obj) {
                     if (await curPage.$('#olpProductDetails > h1') !== null){
                         title = await curPage.evaluate(() => document.querySelector('#olpProductDetails > h1').innerText); 
                     }
-                    console.log(currentASIN+": "+title);
+                    //console.log(currentASIN+": "+title);
                     curPage.close();
                     curPageCount--;
                 }
                 catch(err){
-                    console.log(currentASIN+": "+title);
+                    //console.log(currentASIN+": "+title);
                     curPage.close();
                     curPageCount--;
-                    console.log(curPageCount); 
+                    //console.log(curPageCount); 
                 }
-            
+                //write
+                let row = {
+                        'ASIN':currentASIN,
+                        'Title':title
+                    }
+                exportToCSV.write(objToString(row) + '\n','utf-8');
+                console.log(objToString(row)); 
+                //end write
             }));//end promise      
         }//end for
         //--------------------------
