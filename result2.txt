@@ -1,0 +1,172 @@
+ASIN	Title
+B073RPJW43	Helly Hansen Women's Loke Dash Low-Cut Hiking Trail Shoe, Black/Charcoal/Silver Grey/Aqua Blue, 8 M US	
+B073RP3Y26	Helly Hansen Women's Loke Dash Low-Cut Hiking Trail Shoe, Black/Charcoal/Silver Grey/Aqua Blue, 9.5 M US	
+B073RNSS7S	Helly Hansen Men's Aegir H2Flow Waterproof Breathable Offshore Sailing Salopette, Ebony, Small	
+B073RPH86D	Helly Hansen Women's Loke Dash Low-Cut Hiking Trail Shoe, Black/Charcoal/Silver Grey/Aqua Blue, 8.5 M US	
+B073RPB46W	Helly Hansen Women's Loke Dash Low-Cut Hiking Trail Shoe, Black/Charcoal/Silver Grey/Aqua Blue, 9 M US	
+B073RNS21Z	Helly Hansen Women's Crew Vest, Navy, XXX-Large	
+B073RNY4MP	Helly Hansen Women's Crew Vest, White, XX-Large	
+B073RP9W8M	Helly Hansen Men's Vanir Canter Waterproof HT Hiker, Black/Charcoal/Sulphur/Neon Yellow, 8 M US	
+B073RPPFHL	Helly Hansen Men's Salt Flag Jacket, Navy, Small	
+B073RP7VKH	Helly Hansen Men's Salt Light Jacket, Navy, X-Large	
+B073RPF92J	Helly Hansen Kids HP Waterproof Quick Dry Performance Smock Sailing Shirt, Olympian Blue, 8	
+B073RQ1YD4	Helly Hansen Men's Crew Windbreaker Jacket, Navy, XX-Large	
+B073RPKHFM	Helly Hansen Women's Salt Light Jacket, Navy, Small	
+B073RP5H7F	Helly Hansen Women's Salt Light Jacket, Navy, X-Small	
+B073RP82J4	Helly Hansen Women's Salt Light Jacket, Navy, X-Large	
+B073RP2XTM	Helly Hansen Men's Crew Windbreaker Jacket, Navy, Large	
+B073RPPMSM	Helly Hansen Unisex HP Waterproof Breathable Sailing Smock Top, Olympian Blue, X-Large	
+B073RP94PF	Helly Hansen Men's Crew Windbreaker Jacket, Navy, Small	
+B073RPKJFR	Helly Hansen Womens QD Cargo Shorts - Navy, 28	
+B073RPXYJY	Helly Hansen Womens QD Cargo Shorts - Navy, 38	
+B073RP4SVX	Helly Hansen Womens QD Cargo Shorts - Navy, 32	
+B073RP785P	Helly Hansen Womens QD Cargo Shorts - Navy, 30	
+B073RPNT56	Helly Hansen Womens QD Cargo Shorts - Navy, 36	
+B073RPQVS3	Helly Hansen Men's Salt Polo Shirt, Olympian Blue, XX-Large	
+B073RPKG17	Helly Hansen Men's Crew Windbreaker Jacket, Navy, X-Large	
+B073RPSH8X	Helly Hansen Men's Salt Polo Shirt, Olympian Blue, Small	
+B073RP6ZJS	Helly Hansen Women's Thalia Long Sleeve Shirt, White Navy, X-Small	
+B073RNK2SB	Helly Hansen Kids Salt Coast Wateproof Quick Dry Lined Sailing Jacket, Evening Blue, Size 14	
+B073RPK5BC	Helly Hansen Women's Thalia Loose T-Shirt, Graphite Blue, X-Small	
+B073RNS36L	Helly Hansen Kids Salt Port Waterproof Quick Dry Lined Rain Jacket, Evening Blue, Size 14	
+B073RP7G43	Helly Hansen Kids Bergen Pu Rainset - Blue Water, 86/1	
+B073RNZMV8	Helly Hansen Kids Salt Port Waterproof Quick Dry Lined Rain Jacket, Evening Blue, Size 16	
+B073RP8KNX	Helly Hansen Kids Salt Port Waterproof Performance Rain Pants, Evening Blue, 8	
+B073RNF9RH	Helly Hansen Men's Hh Logo T-Shirt, Red, Medium	
+B073RPZBZM	Helly Hansen Kids Crew Midlayer Waterproof Quick Dry Lined Sail and Rain Jacket, Olympian Blue, Size 14	
+B073RNC4B4	Helly Hansen Kids Crew Midlayer Waterproof Quick Dry Lined Sail and Rain Jacket, Navy, Size 10	
+B073RPLCTF	Helly Hansen Mens LIFA Active Light Workout/Training Long Sleeve Base Layer Shirt, Navy, Medium	
+B073RPCX3L	Helly Hansen Women's HH W Tech T-Shirt, White, XL	
+B073RPJB37	Helly Hansen Men's HH Moisture Wicking Tech Crew Top, Olympian Blue, Large	
+B073RPFDDG	Helly Hansen Women's Tech T-Shirt, Light Grey, Medium	
+B073RP7DSG	Helly Hansen Women's Tech T-Shirt, Light Grey, Large	
+B073RPPQ5Z	Helly Hansen Women's Tech T-Shirt, Ebony, Medium	
+B073RP7PC5	Helly Hansen Women's Tech T-Shirt, Ebony, Small	
+B073RPND6X	Helly Hansen Women's Tech T-Shirt, Ebony, Large	
+B073RPPFN9	Helly Hansen Women's Tech T-Shirt, Light Grey, Small	
+B073RPH86G	Helly Hansen Women's Tech T-Shirt, Ebony, X-Small	
+B073RN6P96	Helly Hansen Women's HH W Tech T-Shirt, White, XS	
+B073RP3JPX	Helly Hansen Women's Tech Crew, White, Large	
+B073RP4DX9	Helly Hansen Women's Tech Crew, White, Medium	
+B073RPZRBQ	Helly Hansen Women's Tech T-Shirt, Light Grey, X-Large	
+B073RPX9QF	Helly Hansen Women's Tech T-Shirt, Light Grey, X-Small	
+B073RP5K9Q	Helly Hansen Women's Tech Crew, White, Small	
+B073RPSGT8	Helly Hansen Women's Tech Crew, Ebony, Medium	
+B073RPD1TR	Helly Hansen Women's Tech Crew, Ebony, Small	
+B073RPM7Y6	Helly Hansen Women's Tech Crew, Light Grey, X-Large	
+B073RPNVR9	Helly Hansen Women's Tech Crew, White, X-Small	
+B073RPN7BD	Helly Hansen Women's Tech Crew, White, X-Large	
+B073RPC2S2	Helly Hansen Women's Tech Crew, Light Grey, X-Small	
+B073RNZN9T	Helly Hansen Women's Tech Crew, Ebony, X-Small	
+B073RP6Y92	Helly Hansen Mens Vanir Brono Breathable Hiking Pants, Quiet Shade, X-Large	
+B073RPBJJV	Helly Hansen Mens Vanir Brono Breathable Hiking Pants, Quiet Shade, Large	
+B073RP5QWN	Helly Hansen Women's Odin 9 Worlds Waterproof Breathable Hooded Hiking Jacket, Persian Red, X-Large	
+B073RP1MTX	Helly Hansen Men's Loke Packable Anorak, Graphite Blue, Large	
+B073RPDSYG	Helly Hansen Men's Loke Packable Anorak, Graphite Blue, Medium	
+B073RPJ6BQ	Helly Hansen Women's Laurel Coat, Evening Blue, Large	
+B073RPL41V	Helly Hansen Women's Loke Packable Anorak Coat, Graphite Blue, Medium	
+B073RPYC43	Helly Hansen Women's Laurel Coat, Evening Blue, X-Large	
+B073RPPR8K	Helly Hansen Womens Amuze Jacket - Ebony, L	
+B073RP8H3Z	Helly Hansen Womens Amuze Jacket - Ebony, S	
+B073RP8KNC	Helly Hansen Mens Vanir Logr Shell Wateproof Jacket, Graphite Blue, Small	
+B073RPBJYD	Helly Hansen Mens Vanir Logr Shell Wateproof Jacket, Graphite Blue, Medium	
+B073RNJ449	Helly Hansen Womens Amuze Jacket - Ebony, M	
+B073RQ5BHL	Helly Hansen Womens Amuze Jacket - Ebony, XS	
+B073RPC7JN	Helly Hansen 2018 Men's Amaze Jacket - 64057 (BLACK - L)	
+B073RP7G58	Helly Hansen Women's Sendai Waterproof Breathable Hooded Rain Coat, Evening Blue, Medium	
+B073RNRG78	Helly Hansen 2018 Men's Amaze Jacket - 64057 (BLACK - XL)	
+B073RPTVSV	Helly Hansen 2018 Men's Amaze Jacket - 64057 (BLACK - XXL)	
+B073RPMY5Y	Helly Hansen Women's Sendai Waterproof Breathable Hooded Rain Coat, Evening Blue, Small	
+B073RPMB5J	Helly Hansen 2018 Men's Amaze Jacket - 64057 (BLACK - M)	
+B073RQ3GHX	Helly Hansen Mens Amaze Jacket - Black, S	
+B078MKSV8B	Helly Hansen Unisex HH Souwester - Evening Blue, STD	
+B073RPBLWM	Helly Hansen Women's Thalia Dress, Graphite Blue, X-Small	
+B073RPH87K	Helly Hansen Mens Marstrand Polo - Navy Stripe, M	
+B073RPKD1X	Helly Hansen Mens Marstrand Polo - Navy Stripe, L	
+B073RPJW66	Helly Hansen Men's Fjord Polo Shirt, Navy Micro Stripes, M	
+B073RP2498	Helly Hansen Men's Fjord Polo Shirt, Navy Micro Stripes, L	
+B073RPTVTV	Helly Hansen Men's Fjord Polo Shirt, Navy Micro Stripes, XL	
+B073RPX33R	Helly Hansen Men's Fjord Polo Shirt, Navy Micro Stripes, S	
+B073RNZMTN	Helly Hansen Men's Dubliner Jacket Waterproof, Windproof, Breathable Shell Rain Coat with Packable Hood, 469 Forest Night, Medium	
+B073RQ5XBR	Helly Hansen Women's Crew Leightweight Waterproof Breathable Sailing Rain Coat Jacket, 990 Black, X-Large	
+B078MV7ZK6	Helly Hansen Womens Merino Wool Light Workout/Training Short Sleeve Base Layer T-Shirt, Ebony, Large	
+B073RP2SL1	Helly Hansen Womens Sailing Pier Mesh Lined Performance Rain Jacket, Alert Red, Large	
+B078MR1VP8	Helly Hansen Womens Merino Wool Light Workout/Training Short Sleeve Base Layer T-Shirt, Ebony, Medium	
+B073RPKJGY	Helly Hansen Women's Loke Rambler Waterproof HT Hiker, Black/Ebony/Silver Grey/Neon Coral, 8.5 M US	
+B073RPPDQQ	Helly Hansen Women's Loke Rambler Waterproof HT Hiker, Black/Ebony/Silver Grey/Neon Coral, 8 M US	
+B073RPV2NW	Helly Hansen Women's Loke Rambler Waterproof HT Hiker, Black/Ebony/Silver Grey/Neon Coral, 7.5 M US	
+B073RPNHZT	Helly Hansen Women's Loke Rambler Waterproof HT Hiker, Black/Ebony/Silver Grey/Neon Coral, 9.5 M US	
+B073RPP5VW	Helly Hansen Women's Loke Rambler Waterproof HT Hiker, Black/Ebony/Silver Grey/Neon Coral, 9 M US	
+B073RPPBFJ	Helly Hansen Women's Loke Rambler Waterproof HT Hiker, Black/Ebony/Silver Grey/Neon Coral, 7 M US	
+B073RP7B38	Helly Hansen Women's Tech Crew Polo Shirt, Black, 3X-Large	
+B073RPKD1F	Helly Hansen Women's Tech Crew Polo Shirt, Black, 2X-Large	
+B073RP2CX7	Helly Hansen Womens Skagen Offshore Waterproof Quick Dry Lined Performance Sailing Jacket, Alert Red, Small	
+B075KLVFF8	Helly Hansen Men's Daybreaker 1/2 Zip Fleece, Navy, Large	
+B075KLBW8V	Helly Hansen Men's Daybreaker 1/2 Zip Fleece, Navy, XX-Large	
+B075KLP5XS	Helly Hansen Men's Daybreaker 1/2 Zip Fleece, Navy, Small	
+B075KLGL8F	Helly Hansen Men's Daybreaker 1/2 Zip Fleece, Navy, X-Large	
+B075KL6YXX	Helly Hansen Men's Daybreaker 1/2 Zip Fleece, Navy, Medium	
+B073RPCVKP	Helly Hansen Men's HH Moisture Wicking Tech Crew Top, White, 4X-Large	
+B073RNQ6G4	Helly Hansen Men's HH Moisture Wicking Tech 1/2 Zip Top, White, 4X-Large	
+B073RP6LR9	Helly Hansen Men's HH Moisture Wicking Tech Crew Top, Olympian Blue, X-Small	
+B073RNY4MX	Helly Hansen Men's HH Moisture Wicking Tech Crew Top, Light Grey, X-Small	
+B073RP9T63	Helly Hansen Men's HH Moisture Wicking Tech Crew Top, White, X-Small	
+B073RPKZ9G	Helly Hansen Men's HH Moisture Wicking Tech 1/2 Zip Top, White, X-Small	
+B0752RWKWF	Helly Hansen 2018 Men's Salt Light Jacket - 33911 (RED - M)	
+B07895QQ2K	Helly Hansen 48308 Men's LIFA Active Crew Shirt, Dark Teal - XXX-Large	
+B073RNW8WQ	Helly Hansen 48365 Men's Tech 1/2 Zip Sweatshirt, Light Grey - XXX-Large	
+B0789DKBKR	Helly Hansen 48308 Men's LIFA Active Crew Shirt, Dark Teal - XXXX-Large	
+B073RP1Q28	Helly Hansen 48308 Men's LIFA Active Crew Sweatshirt, Black - XXX-Large	
+B0789D2G2V	Helly Hansen Men's LIFA Active Baselayer Crew Top, Graphite Blue, 3X-Large	
+B073RP6P9N	Helly Hansen 11406 Men's Vanir Canter Ht Boot, Navy/Olympian/Racer B - 8 D(M) US	
+B075RC2YPH	Helly Hansen 48308 Men's LIFA Active Crew Sweatshirt, Black - XXXX-Large	
+B073RPTVSC	Helly Hansen 11406 Men's Vanir Canter Ht Boot, Navy/Olympian/Racer B - 12 D(M) US	
+B073RQ1YG2	Helly Hansen 11406 Men's Vanir Canter Ht Boot, Black/Charcoal/Sulphu - 10 D(M) US	
+B079GBZTQV	Helly Hansen 11400 Men's Vanir Gallivant Ht Boot, Black/Black/Charcoal - 10 D(M) US	
+B073RP5429	Helly Hansen 11406 Men's Vanir Canter Ht Boot, Black/Charcoal/Sulphu - 9.5 D(M) US	
+B073RQ1VDG	Helly Hansen 11406 Men's Vanir Canter Ht Boot, Black/Charcoal/Sulphu - 10.5 D(M) US	
+B078954KGY	Helly Hansen 33978 Women's Logo Hoodie, Cardinal - Large	
+B073RPJD82	Helly Hansen 11406 Men's Vanir Canter Ht Boot, Black/Charcoal/Sulphu - 11 D(M) US	
+B073RQ8T6C	Helly Hansen 11406 Men's Vanir Canter Ht Boot, Black/Charcoal/Sulphu - 11.5 D(M) US	
+B073RNSQV3	Helly Hansen 11406 Men's Vanir Canter Ht Boot, Black/Charcoal/Sulphu - 12 D(M) US	
+B073RPG99W	Helly Hansen 33886 Women's Pier Jacket, Navy - XX-Large	
+B073RNSP2X	Helly Hansen 11406 Men's Vanir Canter Ht Boot, Black/Charcoal/Sulphu - 13 D(M) US	
+B073RNQ9BR	Helly Hansen 11403 Women's Loke Rambler Ht Boot, Evening Blue/Legion Blu - 6 D(M) US	
+B0789C2G4M	Helly Hansen 33978 Women's Logo Hoodie, Cardinal - Small	
+B07BZV563X	Helly Hansen 11405 Women's Loke Dash Shoe, Plum/Goji Berry/Persi - 8 D(M) US	
+B06VV6D1XJ	Helly Hansen 30335 Men's Aegir Ocean Jacket, Alert Red - Small	
+B073RQ39V9	Helly Hansen 11304 Women's Fjord Lv-2 Sneaker, Navy/Off White/Persia - 10 D(M) US	
+B073RPN6BN	Helly Hansen 11304 Women's Fjord Lv-2 Sneaker, Navy/Off White/Persia - 9.5 D(M) US	
+B073RP91QV	Helly Hansen 33906 Men's Aegir H2Flow Salopette Overall, Ebony - XX-Large	
+B073RPZC13	Helly Hansen 11304 Women's Fjord Lv-2 Sneaker, Navy/Off White/Persia - 5.5 D(M) US	
+B073RP4QVW	Helly Hansen 33942 Women's Qd Cargo Short, Navy - 26	
+B06XHCST7J	Helly Hansen 50844 Men's Daybreaker 1/2 Zip Fleece Jacket, Graphite Blue - XXXL	
+B06W9NJ4DG	Helly Hansen 64028 Men's Rigging Rain Jacket, Ebony - Medium	
+B073RNYX8T	Helly Hansen 11302 Women's Salt Flag F-1 Sneaker, Navy/Off White/Vintag - 5.5 D(M) US	
+B073RNSS8W	Helly Hansen 33942 Women's Qd Cargo Short, Navy - 34	
+B073RPP5TM	Helly Hansen 33942 Women's Qd Cargo Short, Navy - 29	
+B073RPXYJ6	Helly Hansen 41622 Kids Salt Coast Jacket, Evening Blue - 152/12	
+B073RP4DYS	Helly Hansen 41634 Kids Salt Port Jacket, Evening Blue - 140/10	
+B073RPPSBC	Helly Hansen 64047 Women's Sendai Rain Coat, Evening Blue - Large	
+B073RP5KPS	Helly Hansen 64047 Women's Sendai Rain Coat, Sulphur - X-Large	
+B073RPPHGM	Helly Hansen 64047 Women's Sendai Rain Coat, Evening Blue - X-Small	
+B073RPGT7M	Helly Hansen Men's Hh Logo T-Shirt, Red, Small	
+B073RNZC19	Helly Hansen 64045 Women's Amuze Jacket, Ebony - X-Large	
+B073RN8ZQF	Helly Hansen 11403 Women's Loke Rambler Ht Boot, Black/Ebony/Silver Grey/N - 5.5 D(M) US	
+B073RPTVSX	Helly Hansen 53029 Men's Hp Shore T-Shirt, White - Small	
+B073RP1MS2	Helly Hansen 48365 Men's Tech 1/2 Zip Sweatshirt, Light Grey - XXXX-Large	
+B073RNF9RM	Helly Hansen 11403 Women's Loke Rambler Ht Boot, Black/Ebony/Silver Grey/N - 10 D(M) US	
+B0789CV2TZ	Helly Hansen Men's Feather Pile 3/4 Zip Pullover Top, Ebony, X-Large	
+B01N2H5XGS	Helly Hansen Men's Daybreaker Lightweight Half Zip Fleece Jacket, 563 Olympian Blue, X-Large	
+B073RPB47Q	Helly Hansen 48364 Men's Tech Crew Sweatshirt, White - XXX-Large	
+B073RPJR7J	Helly Hansen Men's HH Moisture Wicking Tech T-Shirt, Light Grey, Small	
+B073RPF9Y9	Helly Hansen Men's HH Moisture Wicking Tech T-Shirt, Light Grey, 3X-Large	
+B078952FXZ	Helly Hansen Men's LIFA Merino Wool Baselayer Pants, Graphite Blue, X-Large	
+B07BB3VKH9	Helly Hansen Women's Snowstar Waterproof Insulated Ski Pant, Black, Small	
+B0789631XC	Helly Hansen Men's HH Moisture Wicking Tech T-Shirt, Ebony, 3X-Large	
+B07894ZM1R	Helly Hansen W Feather Pile 3/4 Zip Pullover, Persian Red, Small	
+B06XGSVWGW	Helly Hansen Women's HH LIFA Baselayer Crew Top, Graphite Blue, Large	
+B0789D7YSP	Helly Hansen Women's W LIFA Merino Wool Graphic 1/2 Zip Baselayer Top, Vintage Indigo/Frost Pri, Medium	
+B0789CX55C	Helly Hansen W Feather Pile 3/4 Zip Pullover, Persian Red, X-Large	
+B07BB5HQRR	Helly Hansen Women's Snowstar Waterproof Insulated Ski Pant, Black, Large	
+B07896979L	Helly Hansen Women's W LIFA Merino Wool Graphic 1/2 Zip Baselayer Top, Vintage Indigo/Frost Pri, Large	

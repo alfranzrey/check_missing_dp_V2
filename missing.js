@@ -15,7 +15,7 @@ fs.createReadStream('asins.csv')
     });
 //-----------------------
 //-export file result
-var exportToCSV = fs.createWriteStream('result.txt');
+var exportToCSV = fs.createWriteStream('result6.txt');
 var header ='ASIN'  + '\t' +
             'Title'    + '\n';
 console.log(header);
@@ -37,26 +37,14 @@ function objToString (obj) {
     try{
         //---------------
         //const browser = await puppeteer.launch({headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox']});
-        const browser = await puppeteer.launch({executablePath: 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe',
-            headless: false});
+        const browser = await puppeteer.launch({executablePath: 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe',headless: false});
         const page = await browser.newPage();
-        page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36');    
-        /*block images and css
-            await page.setRequestInterception(true);
-            page.on('request', (req) => {
-                if(req.resourceType() == 'stylesheet' || req.resourceType() == 'font' || req.resourceType() == 'image'){
-                    req.abort();
-                }
-                else {
-                    req.continue();
-                }
-            });
-            */
+        //page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36');    
         //-----------------
 
         //
         //-------------gather all the links
-        var maxTabCount = 9;
+        var maxTabCount = 9; //number of tabs to scrape
         var curPageCount = 0;
         var iteration = -1;
         var subLinkCount = 0;
@@ -93,7 +81,6 @@ function objToString (obj) {
                     if (await curPage.$('#olpProductDetails > h1') !== null){
                         title = await curPage.evaluate(() => document.querySelector('#olpProductDetails > h1').innerText); 
                     }
-                    //console.log(currentASIN+": "+title);
                     curPage.close();
                     curPageCount--;
                 }
